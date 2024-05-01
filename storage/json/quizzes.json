@@ -1,0 +1,108 @@
+{
+    "quizzes": [
+        {
+            "id": 1,
+            "title": "General Knowledge",
+            "questions": [
+                {
+                    "question": "What is the capital of France?",
+                    "options": ["Paris", "London", "Berlin", "Madrid"],
+                    "answer": "Paris"
+                },
+                {
+                    "question": "What is the hardest natural substance on Earth?",
+                    "options": ["Gold", "Iron", "Diamond", "Silver"],
+                    "answer": "Diamond"
+                },
+                {
+                    "question": "Which planet is known as the Red Planet?",
+                    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+                    "answer": "Mars"
+                },
+                {
+                    "question": "In what year did the Titanic sink?",
+                    "options": ["1912", "1905", "1898", "1923"],
+                    "answer": "1912"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Science and Nature",
+            "questions": [
+                {
+                    "question": "What is the chemical symbol for the element oxygen?",
+                    "options": ["O", "Ox", "Om", "Op"],
+                    "answer": "O"
+                },
+                {
+                    "question": "What gas do plants absorb from the atmosphere?",
+                    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+                    "answer": "Carbon Dioxide"
+                },
+                {
+                    "question": "The concept of gravity was discovered by which famous physicist?",
+                    "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+                    "answer": "Isaac Newton"
+                },
+                {
+                    "question": "What is the hardest mineral known?",
+                    "options": ["Quartz", "Topaz", "Diamond", "Gold"],
+                    "answer": "Diamond"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "History",
+            "questions": [
+                {
+                    "question": "Who was the first President of the United States?",
+                    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+                    "answer": "George Washington"
+                },
+                {
+                    "question": "What year did World War II end?",
+                    "options": ["1945", "1944", "1942", "1941"],
+                    "answer": "1945"
+                },
+                {
+                    "question": "Which empire was ruled by Genghis Khan?",
+                    "options": ["Roman Empire", "Mongol Empire", "Ottoman Empire", "British Empire"],
+                    "answer": "Mongol Empire"
+                },
+                {
+                    "question": "What is the name of the ship that carried the Pilgrims to America in 1620?",
+                    "options": ["Mayflower", "Santa Maria", "Titanic", "Endeavour"],
+                    "answer": "Mayflower"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Pop Culture",
+            "questions": [
+                {
+                    "question": "Who is known as the King of Pop?",
+                    "options": ["Elvis Presley", "Michael Jackson", "Justin Bieber", "Bob Dylan"],
+                    "answer": "Michael Jackson"
+                },
+                {
+                    "question": "What movie features the quote, 'I'll be back'?",
+                    "options": ["Terminator", "RoboCop", "Predator", "Commando"],
+                    "answer": "Terminator"
+                },
+                {
+                    "question": "Which artist painted the Mona Lisa?",
+                    "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+                    "answer": "Leonardo da Vinci"
+                },
+                {
+                    "question": "What is the longest-running Broadway show?",
+                    "options": ["Cats", "Les Misérables", "The Phantom of the Opera", "Hamilton"],
+                    "answer": "The Phantom of the Opera"
+                }
+            ]
+        }
+    ]
+}
